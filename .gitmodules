@@ -1,3 +1,5 @@
 [submodule "Final-Project"]
 	path = Final Project - Ray Tracing
 	url = https://github.com/johnklucinec/Vulkan-Ray-Tracing-Final-Project
+[submodule "Final Project - Ray Tracing"]
+	branch = main
