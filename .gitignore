@@ -1,17 +1,6 @@
-Project 1/Sample/x64/Debug/Sample.exe.recipe
-Project 1/Sample/x64/Debug/Sample.ilk
-Project 1/Sample/x64/Debug/Sample.tlog/CL.command.1.tlog
-Project 1/Sample/x64/Debug/Sample.tlog/CL.read.1.tlog
-Project 1/Sample/x64/Debug/Sample.tlog/CL.write.1.tlog
-Project 1/Sample/x64/Debug/Sample.tlog/Cl.items.tlog
-Project 1/Sample/x64/Debug/Sample.tlog/Sample.lastbuildstate
-Project 1/Sample/x64/Debug/Sample.tlog/link.command.1.tlog
-Project 1/Sample/x64/Debug/Sample.tlog/link.read.1.tlog
-Project 1/Sample/x64/Debug/Sample.tlog/link.secondary.1.tlog
-Project 1/Sample/x64/Debug/Sample.tlog/link.write.1.tlog
-Project 1/Sample/x64/Debug/sample.obj
-Project 1/Sample/x64/Debug/vc143.idb
-Project 1/Sample/x64/Debug/vc143.pdb
+Project 1/Sample/x64/Debug/
+Project 1/Sample/glm/
+
 Project 1/Sample.sln
 Project 1/Sample.vcxproj
 Project 1/Sample.vcxproj.filters
@@ -22,8 +11,691 @@ Project 1/frag.spv
 Project 1/glfw3.h
 Project 1/glfw3.lib
 Project 1/glfw3dll.lib
-Project 1/glm/CMakeLists.txt
-Project 1/glm/common.hpp
-Project 1/glm/detail/_features.hpp
-Project 1/glm/detail/_fixes.hpp
-Project 1/glm/detail/_noise.hpp
+
+Project 1/glm/
+
+Project 1/x64/
+
+Project 1/glslangValidator.exe
+
+Project 1/glslangValidator.help
+
+Project 1/sample-comp.comp
+
+Project 1/sample-comp.spv
+
+Project 1/sample-frag-dis.txt
+
+Project 1/sample-frag.save.frag
+
+Project 1/sample-frag.spv
+
+Project 1/sample-vert-dis.txt
+
+Project 1/sample-vert.save.vert
+
+Project 1/sample-vert.spv
+
+Project 1/sample.o
+
+Project 1/sample.save.cpp
+
+Project 1/vert.spv
+
+Project 1/vk_enum_string_helper.h
+
+Project 1/vk_icd.h
+
+Project 1/vk_layer_dispatch_table.h
+
+Project 1/vk_layer.h
+
+Project 1/vk_mem_alloc.h
+
+Project 1/vk_platform.h
+
+Project 1/vk_sdk_platform.h
+
+Project 1/vulkan_android.h
+
+Project 1/vulkan_beta.h
+
+Project 1/vulkan_core.h
+
+Project 1/vulkan_directfb.h
+
+Project 1/vulkan_enums.hpp
+
+Project 1/vulkan_format_traits.hpp
+
+Project 1/vulkan_fuchsia.h
+
+Project 1/vulkan_funcs.hpp
+
+Project 1/vulkan_ggp.h
+
+Project 1/vulkan_handles.hpp
+
+Project 1/vulkan_hash.hpp
+
+Project 1/vulkan_ios.h
+
+Project 1/vulkan_macos.h
+
+Project 1/vulkan_metal.h
+
+Project 1/vulkan_profiles.h
+
+Project 1/vulkan_profiles.hpp
+
+Project 1/vulkan_raii.hpp
+
+Project 1/vulkan_screen.h
+
+Project 1/vulkan_structs.hpp
+
+Project 1/vulkan_to_string.hpp
+
+Project 1/vulkan_vi.h
+
+Project 1/vulkan_wayland.h
+
+Project 1/vulkan_win32.h
+
+Project 1/vulkan_xcb.h
+
+Project 1/vulkan_xlib_xrandr.h
+
+Project 1/vulkan_xlib.h
+
+Project 1/vulkan-1.lib
+
+Project 1/vulkan.h
+
+Project 1/vulkan.hpp
+
+Project 2/.vs/
+
+Project 2/.vscode/
+
+Project 2/glm/
+
+Project 2/x64/
+
+Project 2/Debug/
+
+Project 2/frag.spv
+
+Project 2/glfw3.h
+
+Project 2/glfw3.lib
+
+Project 2/glfw3dll.lib
+
+Project 2/glslangValidator.exe
+
+Project 2/glslangValidator.help
+
+Project 2/Sample/
+
+Project 2/Makefile
+
+Project 2/puppy.bmp
+
+Project 2/sample-comp.comp
+
+Project 2/sample-comp.spv
+
+Project 2/sample-frag-dis.txt
+
+Project 2/sample-frag.save.frag
+
+Project 2/sample-frag.spv
+
+Project 2/sample-vert-dis.txt
+
+Project 2/sample-vert.save.vert
+
+Project 2/sample-vert.spv
+
+Project 2/Sample.sln
+
+Project 2/Sample.vcxproj
+
+Project 2/Sample.vcxproj.filters
+
+Project 2/Sample.vcxproj.user
+
+Project 2/SampleVertexData.cpp
+
+Project 2/vert.spv
+
+Project 2/vk_enum_string_helper.h
+
+Project 2/vk_icd.h
+
+Project 2/vk_layer_dispatch_table.h
+
+Project 2/vk_layer.h
+
+Project 2/vk_platform.h
+
+Project 2/vk_sdk_platform.h
+
+Project 2/vkuKeytime.cpp
+
+Project 2/vkuKeytime.h
+
+Project 2/vkuLoadObjFile.cpp
+
+Project 2/vkuLoadObjFile.h
+
+Project 2/vulkan_android.h
+
+Project 2/vulkan_beta.h
+
+Project 2/vulkan_core.h
+
+Project 2/vulkan_directfb.h
+
+Project 2/vulkan_enums.hpp
+
+Project 2/vulkan_format_traits.hpp
+
+Project 2/vulkan_fuchsia.h
+
+Project 2/vulkan_funcs.hpp
+
+Project 2/vulkan_ggp.h
+
+Project 2/vulkan_handles.hpp
+
+Project 2/vulkan_hash.hpp
+
+Project 2/vulkan_ios.h
+
+Project 2/vulkan_macos.h
+
+Project 2/vulkan_metal.h
+
+Project 2/vulkan_profiles.h
+
+Project 2/vulkan_profiles.hpp
+
+Project 2/vulkan_raii.hpp
+
+Project 2/vulkan_screen.h
+
+Project 2/vulkan_structs.hpp
+
+Project 2/vulkan_to_string.hpp
+
+Project 2/vulkan_vi.h
+
+Project 2/vulkan_wayland.h
+
+Project 2/vulkan_win32.h
+
+Project 2/vulkan_xcb.h
+
+Project 2/vulkan_xlib_xrandr.h
+
+Project 2/vulkan_xlib.h
+
+Project 2/vulkan-1.lib
+
+Project 2/vulkan.h
+
+Project 2/vulkan.hpp
+
+Project 2/VulkanDebug.txt
+
+Project 3/.vs/
+
+Project 3/.vscode/
+
+Project 3/glm/
+
+Project 3/x64/
+
+Project 3/Debug/
+
+Project 3/frag.spv
+
+Project 3/glfw3.h
+
+Project 3/glfw3.lib
+
+Project 3/glfw3dll.lib
+
+Project 3/glslangValidator.exe
+
+Project 3/glslangValidator.help
+
+Project 3/Sample/
+
+Project 3/Makefile
+
+Project 3/puppy.bmp
+
+Project 3/sample-comp.comp
+
+Project 3/sample-comp.spv
+
+Project 3/sample-frag-dis.txt
+
+Project 3/sample-frag.save.frag
+
+Project 3/sample-frag.spv
+
+Project 3/sample-vert-dis.txt
+
+Project 3/sample-vert.save.vert
+
+Project 3/sample-vert.spv
+
+Project 3/Sample.sln
+
+Project 3/Sample.vcxproj
+
+Project 3/Sample.vcxproj.filters
+
+Project 3/Sample.vcxproj.user
+
+Project 3/SampleVertexData.cpp
+
+Project 3/vert.spv
+
+Project 3/vk_enum_string_helper.h
+
+Project 3/vk_icd.h
+
+Project 3/vk_layer_dispatch_table.h
+
+Project 3/vk_layer.h
+
+Project 3/vk_platform.h
+
+Project 3/vk_sdk_platform.h
+
+Project 3/vkuKeytime.cpp
+
+Project 3/vkuKeytime.h
+
+Project 3/vkuLoadObjFile.cpp
+
+Project 3/vkuLoadObjFile.h
+
+Project 3/vulkan_android.h
+
+Project 3/vulkan_beta.h
+
+Project 3/vulkan_core.h
+
+Project 3/vulkan_directfb.h
+
+Project 3/vulkan_enums.hpp
+
+Project 3/vulkan_format_traits.hpp
+
+Project 3/vulkan_fuchsia.h
+
+Project 3/vulkan_funcs.hpp
+
+Project 3/vulkan_ggp.h
+
+Project 3/vulkan_handles.hpp
+
+Project 3/vulkan_hash.hpp
+
+Project 3/vulkan_ios.h
+
+Project 3/vulkan_macos.h
+
+Project 3/vulkan_metal.h
+
+Project 3/vulkan_profiles.h
+
+Project 3/vulkan_profiles.hpp
+
+Project 3/vulkan_raii.hpp
+
+Project 3/vulkan_screen.h
+
+Project 3/vulkan_structs.hpp
+
+Project 3/vulkan_to_string.hpp
+
+Project 3/vulkan_vi.h
+
+Project 3/vulkan_wayland.h
+
+Project 3/vulkan_win32.h
+
+Project 3/vulkan_xcb.h
+
+Project 3/vulkan_xlib_xrandr.h
+
+Project 3/vulkan_xlib.h
+
+Project 3/vulkan-1.lib
+
+Project 3/vulkan.h
+
+Project 3/vulkan.hpp
+Project 3/VulkanDebug.txt
+
+Project 4/.vs/
+
+Project 4/.vscode/
+
+Project 4/glm/
+
+Project 4/x64/
+
+Project 4/Debug/
+
+Project 4/frag.spv
+
+Project 4/glfw3.h
+
+Project 4/glfw3.lib
+
+Project 4/glfw3dll.lib
+
+Project 4/glslangValidator.exe
+
+Project 4/glslangValidator.help
+
+Project 4/Sample/
+
+Project 4/Makefile
+
+Project 4/puppy.bmp
+
+Project 4/sample-comp.comp
+
+Project 4/sample-comp.spv
+
+Project 4/sample-frag-dis.txt
+
+Project 4/sample-frag.save.frag
+
+Project 4/sample-frag.spv
+
+Project 4/sample-vert-dis.txt
+
+Project 4/sample-vert.save.vert
+
+Project 4/sample-vert.spv
+
+Project 4/Sample.sln
+
+Project 4/Sample.vcxproj
+
+Project 4/Sample.vcxproj.filters
+
+Project 4/Sample.vcxproj.user
+
+Project 4/SampleVertexData.cpp
+
+Project 4/vert.spv
+
+Project 4/vk_enum_string_helper.h
+
+Project 4/vk_icd.h
+
+Project 4/vk_layer_dispatch_table.h
+
+Project 4/vk_layer.h
+
+Project 4/vk_platform.h
+
+Project 4/vk_sdk_platform.h
+
+Project 4/vkuKeytime.cpp
+
+Project 4/vkuKeytime.h
+
+Project 4/vkuLoadObjFile.cpp
+
+Project 4/vkuLoadObjFile.h
+
+Project 4/vulkan_android.h
+
+Project 4/vulkan_beta.h
+
+Project 4/vulkan_core.h
+
+Project 4/vulkan_directfb.h
+
+Project 4/vulkan_enums.hpp
+
+Project 4/vulkan_format_traits.hpp
+
+Project 4/vulkan_fuchsia.h
+
+Project 4/vulkan_funcs.hpp
+
+Project 4/vulkan_ggp.h
+
+Project 4/vulkan_handles.hpp
+
+Project 4/vulkan_hash.hpp
+
+Project 4/vulkan_ios.h
+
+Project 4/vulkan_macos.h
+
+Project 4/vulkan_metal.h
+
+Project 4/vulkan_profiles.h
+
+Project 4/vulkan_profiles.hpp
+
+Project 4/vulkan_raii.hpp
+
+Project 4/vulkan_screen.h
+
+Project 4/vulkan_structs.hpp
+
+Project 4/vulkan_to_string.hpp
+
+Project 4/vulkan_vi.h
+
+Project 4/vulkan_wayland.h
+
+Project 4/vulkan_win32.h
+
+Project 4/vulkan_xcb.h
+
+Project 4/vulkan_xlib_xrandr.h
+
+Project 4/vulkan_xlib.h
+
+Project 4/vulkan-1.lib
+
+Project 4/vulkan.h
+
+Project 4/vulkan.hpp
+Project 4/VulkanDebug.txt
+
+
+Project 5/.vs/
+
+Project 5/.vscode/
+
+Project 5/glm/
+
+Project 5/x64/
+
+Project 5/Debug/
+
+Project 5/frag.spv
+
+Project 5/glfw3.h
+
+Project 5/glfw3.lib
+
+Project 5/glfw3dll.lib
+
+Project 5/glslangValidator.exe
+
+Project 5/glslangValidator.help
+
+Project 5/Sample/
+
+Project 5/Makefile
+
+Project 5/puppy.bmp
+
+Project 5/sample-comp.comp
+
+Project 5/sample-comp.spv
+
+Project 5/sample-frag-dis.txt
+
+Project 5/sample-frag.save.frag
+
+Project 5/sample-frag.spv
+
+Project 5/sample-vert-dis.txt
+
+Project 5/sample-vert.save.vert
+
+Project 5/sample-vert.spv
+
+Project 5/Sample.sln
+
+Project 5/Sample.vcxproj
+
+Project 5/Sample.vcxproj.filters
+
+Project 5/Sample.vcxproj.user
+
+Project 5/SampleVertexData.cpp
+
+Project 5/vert.spv
+
+Project 5/vk_enum_string_helper.h
+
+Project 5/vk_icd.h
+
+Project 5/vk_layer_dispatch_table.h
+
+Project 5/vk_layer.h
+
+Project 5/vk_platform.h
+
+Project 5/vk_sdk_platform.h
+
+Project 5/vkuKeytime.cpp
+
+Project 5/vkuKeytime.h
+
+Project 5/vkuLoadObjFile.cpp
+
+Project 5/vkuLoadObjFile.h
+
+Project 5/vulkan_android.h
+
+Project 5/vulkan_beta.h
+
+Project 5/vulkan_core.h
+
+Project 5/vulkan_directfb.h
+
+Project 5/vulkan_enums.hpp
+
+Project 5/vulkan_format_traits.hpp
+
+Project 5/vulkan_fuchsia.h
+
+Project 5/vulkan_funcs.hpp
+
+Project 5/vulkan_ggp.h
+
+Project 5/vulkan_handles.hpp
+
+Project 5/vulkan_hash.hpp
+
+Project 5/vulkan_ios.h
+
+Project 5/vulkan_macos.h
+
+Project 5/vulkan_metal.h
+
+Project 5/vulkan_profiles.h
+
+Project 5/vulkan_profiles.hpp
+
+Project 5/vulkan_raii.hpp
+
+Project 5/vulkan_screen.h
+
+Project 5/vulkan_structs.hpp
+
+Project 5/vulkan_to_string.hpp
+
+Project 5/vulkan_vi.h
+
+Project 5/vulkan_wayland.h
+
+Project 5/vulkan_win32.h
+
+Project 5/vulkan_xcb.h
+
+Project 5/vulkan_xlib_xrandr.h
+
+Project 5/vulkan_xlib.h
+
+Project 5/vulkan-1.lib
+
+Project 5/vulkan.h
+
+Project 5/vulkan.hpp
+Project 5/VulkanDebug.txt
+
+Project 3/puppy.jpg
+
+Project 3/puppy0.bmp
+
+Project 3/puppy0.jpg
+
+Project 3/puppy1.bmp
+
+Project 3/puppy1.jpg
+
+Project 3/sample.save.cpp
+
+Project 3/vk_mem_alloc.h
+
+Project 4/~$caffeine.pptx
+
+Project 4/puppy.jpg
+
+Project 4/puppy0.bmp
+
+Project 4/puppy0.jpg
+
+Project 4/puppy1.bmp
+
+Project 4/puppy1.jpg
+
+Project 4/vkuSphere.cpp
+
+Project 4/vkuSphere.h
+
+Project 5/puppy.jpg
+
+Project 5/puppy0.bmp
+
+Project 5/puppy0.jpg
+
+Project 5/puppy1.bmp
+
+Project 5/puppy1.jpg
+
+Project 5/sample.save.cpp
+
+Project 5/vk_mem_alloc.h
